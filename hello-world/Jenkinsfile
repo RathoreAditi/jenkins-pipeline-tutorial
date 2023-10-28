@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Static Analysis') {
             steps {
-                echo 'ADITI RATHORE' 
+                echo 'ADITI ' 
             }
         }
         stage('Compile') {
